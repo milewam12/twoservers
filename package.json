@@ -1,0 +1,23 @@
+{
+  "name": "twoservers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twoServers.js",
+  "dependencies": {
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milewam12/twoservers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milewam12/twoservers/issues"
+  },
+  "homepage": "https://github.com/milewam12/twoservers#readme"
+}
